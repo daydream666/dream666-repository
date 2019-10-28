@@ -1,2 +1,4 @@
 hello Word
 你好
+哈哈
+java
